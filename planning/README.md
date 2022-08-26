@@ -1,12 +1,13 @@
 # How to Plan
 
-1. [Brainstorming](#brainstorming)
-1. [Prioritizing](#prioritizing)
-1. [User Story Dependencies](#user-story-Dependencies)
-1. [Acceptance Criteria](#acceptance-criteria)
-1. [Defining Tasks](#defining-tasks)
-1. [Project Board](#project-board)
-1. [Sprinting and Reviewing](#sprinting-and-reviewing)
+- [How to Plan](#how-to-plan)
+  - [Brainstorming](#brainstorming)
+  - [Prioritizing](#prioritizing)
+  - [Acceptance Criteria](#acceptance-criteria)
+  - [User Story Dependencies](#user-story-dependencies)
+  - [Defining Tasks](#defining-tasks)
+  - [Project Board](#project-board)
+  - [Sprinting and Reviewing](#sprinting-and-reviewing)
 
 ---
 
@@ -106,7 +107,6 @@ to plan the details of the user story's handler:
 2. **User Flow ?**
    1. _... ?_
 3. **Wireframes ?**
-   1. _... ?_
 
 - [Lars Bilde](https://www.youtube.com/watch?v=gZ4uLafsxAk)
 - [Christiaan Verwijs](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)

@@ -1,6 +1,22 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "WIREFRAME",
+    "wireframe",
+    "Valeriya",
+    "Inna",
+    "Ponomarev",
+    "Lant",
+    "Yodiz",
+    "Zepel",
+    "Excalidraw",
+    "Wireframes",
+    "Bilde",
+    "Christiaan",
+    "Verwijs",
+    "Todos",
+    "Nepo"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
